@@ -6,7 +6,6 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   { path: '', component: DetailsComponent },
-  { path: 'bio', component: BiodataComponent },
 ];
 
 @NgModule({
