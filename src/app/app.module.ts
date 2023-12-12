@@ -5,6 +5,9 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { TeacherComponent } from './teacher/teacher.component';
 
+
+//Adding a test comment.
+
 @NgModule({
   declarations: [
     AppComponent,
